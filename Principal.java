@@ -7,5 +7,6 @@ public class Principal {
         severino.start();
         raimundo.start();
         tucano.start();
+        ciclano.start();
     }
 }
