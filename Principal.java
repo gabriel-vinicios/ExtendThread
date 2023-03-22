@@ -3,6 +3,7 @@ public class Principal {
         Trabalhador severino = new Trabalhador("sapato", 500);
         Trabalhador raimundo = new Trabalhador("bota", 500);
         Trabalhador tucano = new Trabalhador("Tênis", 500);
+        Trabalhador ciclano = new Trabalhador("meia", 500);
         severino.start();
         raimundo.start();
         tucano.start();
